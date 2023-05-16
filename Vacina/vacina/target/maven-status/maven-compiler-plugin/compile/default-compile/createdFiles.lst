@@ -1,4 +1,2 @@
 module-info.class
-com/vacina/SecondaryController.class
 com/vacina/App.class
-com/vacina/PrimaryController.class
